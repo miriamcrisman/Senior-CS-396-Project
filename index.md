@@ -4,13 +4,13 @@
 
 * * * 
 ## Helpful Links
-[My Thoughts on This Project](2026-11-22-my-first-blog-post.md)
+[My Thoughts on This Project](_posts/2026-11-22-my-first-blog-post.md)
 
-[Most Recent Report](report-11-23-2026.md)
+[Most Recent Report](_posts/report-11-23-2026.md)
 
-[Status Report Presentation Materials](presentation-materials-12-3-2026.md)
+[Status Report Presentation Materials](_posts/presentation-materials-12-3-2026.md)
 
-[Other Useful Research Papers](useful-research-11-23-2026.md)
+[Other Useful Research Papers](_posts/useful-research-11-23-2026.md)
 
 [Calvin CS Department Website](https://calvin.edu/academics/school-stem/computer-science)
 
