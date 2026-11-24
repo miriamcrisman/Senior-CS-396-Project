@@ -1,4 +1,4 @@
 ---
-title: Research I Used in This Process
+title: Research Useful to Understanding My Research
 ---
 ...will go here when I'm more organized
