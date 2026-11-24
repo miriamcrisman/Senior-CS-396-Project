@@ -8,7 +8,7 @@
 
 [Most Recent Report](report-11-23-2026.md)
 
-[Status Report Presentation Materials]()
+[Status Report Presentation Materials](presentation-materials-12-3-2026.md)
 
 [Other Useful Research Papers]()
 
