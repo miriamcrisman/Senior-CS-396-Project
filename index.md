@@ -1,6 +1,6 @@
 **My Project:** Computational Modeling of Political Polarization in Complex Systems
 
-**Advisor:** Eric Araujo
+**Advisor:** Eric Araújo
 
 **More About Calvin's CS Department:** [Calvin CS Department Website](https://calvin.edu/academics/school-stem/computer-science)
 
