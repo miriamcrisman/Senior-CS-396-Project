@@ -10,7 +10,7 @@
 
 [Status Report Presentation Materials](_posts/2026-12-3-presentation-materials.md)
 
-[Other Useful Research Papers](_posts/2026-11-23-useful-research.md)
+[Other Useful Research Papers](_posts/2026-12-3-presentation-materials.md)
 
 [Calvin CS Department Website](https://calvin.edu/academics/school-stem/computer-science)
 
