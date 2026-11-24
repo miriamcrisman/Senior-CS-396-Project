@@ -2,9 +2,19 @@
 
 **Advisor:** Eric Araújo
 
-**More About Calvin's CS Department:** [Calvin CS Department Website](https://calvin.edu/academics/school-stem/computer-science)
-
 * * * 
+## Helpful Links
+[My Thoughts on This Project](2026-11-22-my-first-blog-post.md)
+
+[Most Recent Report](report-11-23-2026.md)
+
+[Status Report Presentation Materials]()
+
+[Other Useful Research Papers]()
+
+[Calvin CS Department Website](https://calvin.edu/academics/school-stem/computer-science)
+
+* * *
 
 ## About me: 
 Hello! I'm Miriam Crisman, a senior majoring in Data Science and Political Science with minors in German and Statistics. My current fascination is with all types of political polarization and how they relate to public opinion, elections, and the news media. 
